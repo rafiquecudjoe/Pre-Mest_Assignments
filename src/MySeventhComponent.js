@@ -3,7 +3,7 @@
 function MySeventhComponent() {
     return (
         <div className="MySeventhComponent">
-            MySeventhComponent
+            <h1>MySeventhComponent</h1>
         </div>
     )
     
