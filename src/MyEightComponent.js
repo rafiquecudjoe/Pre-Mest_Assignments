@@ -4,7 +4,7 @@
 function MyEightComponent() {
     return(
         <div className="MyEightComponent">
-            MyEightComponent
+            <h3>MyEightComponent</h3>
         </div>
     )
     
